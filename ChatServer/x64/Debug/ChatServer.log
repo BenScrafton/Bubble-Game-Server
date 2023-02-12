@@ -1,0 +1,12 @@
+﻿  Client.cpp
+C:\Users\bensc\Desktop\GAV2023_a0078144\ChatServer\ChatServer\Server.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  main.cpp
+C:\Users\bensc\Desktop\GAV2023_a0078144\ChatServer\ChatServer\Server.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+  Queue.cpp
+  Server.cpp
+C:\Users\bensc\Desktop\GAV2023_a0078144\ChatServer\ChatServer\Server.h(7,10): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+C:\Users\bensc\Desktop\GAV2023_a0078144\ChatServer\ChatServer\Server.cpp(44,20): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\bensc\Desktop\GAV2023_a0078144\ChatServer\ChatServer\Server.cpp(58,82): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\bensc\Desktop\GAV2023_a0078144\ChatServer\ChatServer\Server.cpp(62,33): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  Generating Code...
+  ChatServer.vcxproj -> C:\Users\bensc\Desktop\GAV2023_a0078144\ChatServer\x64\Debug\ChatServer.exe
